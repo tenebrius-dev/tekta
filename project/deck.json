@@ -1,0 +1,94 @@
+{
+  "v": 4,
+  "attachments": {},
+  "cover": "cover-a",
+  "createdOnFiles": {
+    "at": "2026-10-28T20:40:00Z",
+    "v": 1
+  },
+  "designSystems": [
+    {
+      "artifact": "https://claude.ai/artifact/F7XGiK7koyhHb85LH2L7tV",
+      "copiedAt": "2026-10-28T20:40:00Z",
+      "namespace": "tekta",
+      "title": "ТЕКТА — презентация",
+      "version": "1793217779-c128"
+    }
+  ],
+  "faces": {
+    "amstelvar": {
+      "family": "Amstelvar",
+      "src": "project/ds/tekta/fonts/Amstelvar-Roman.ttf"
+    },
+    "pragmatica-next": {
+      "family": "Pragmatica Next",
+      "src": "/_blob/3c64ca72086325443d98916483fc6f35"
+    },
+    "pragmatica-next-light": {
+      "family": "Pragmatica Next Light",
+      "src": "/_blob/01e187b404befa33733f36d26a44b151"
+    },
+    "pragmatica-next-medium": {
+      "family": "Pragmatica Next Medium",
+      "src": "/_blob/33e629bcca4b653d214d38250074eec2"
+    }
+  },
+  "lists": "css",
+  "order": [
+    "cover-a",
+    "cover-b",
+    "company",
+    "company-b",
+    "numbers",
+    "numbers-b",
+    "numbers-c",
+    "history",
+    "philosophy",
+    "cycle",
+    "partners",
+    "partners-logos",
+    "product",
+    "results",
+    "awards",
+    "map",
+    "projects",
+    "pyzhevsky-cover",
+    "pyzhevsky",
+    "era-cover",
+    "era",
+    "twelve-cover",
+    "twelve",
+    "ever-cover",
+    "ever",
+    "air-cover",
+    "air",
+    "contacts"
+  ],
+  "sections": {
+    "s1": {
+      "description": "Обложка: два варианта на выбор, без фото и с фото.",
+      "start": "cover-a"
+    },
+    "s2": {
+      "description": "О компании: кто мы, масштаб в цифрах и история.",
+      "start": "company"
+    },
+    "s3": {
+      "description": "Подход: философия, полный цикл, партнёры и продукт.",
+      "start": "philosophy"
+    },
+    "s4": {
+      "description": "Доказательства: результаты и награды.",
+      "start": "results"
+    },
+    "s5": {
+      "description": "Проекты: карта, обзор и пять проектов.",
+      "start": "map"
+    },
+    "s6": {
+      "description": "Контакты.",
+      "start": "contacts"
+    }
+  },
+  "title": "ТЕКТА — корпоративная презентация"
+}
